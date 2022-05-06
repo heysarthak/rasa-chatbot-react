@@ -1,9 +1,8 @@
 # Rasa-Chatbot-with-React-JS-Interface
 Rasa ChatBot backend using rasa core and frontend designed using React JS 
 
-# UI Using React JS
+# RASA-CHATBOT-WITH-REACTJS
 
-![Recorded_video_21](https://user-images.githubusercontent.com/42066122/148644478-5dceb273-fc56-4f6c-9589-ec3156164279.gif)
 
 # Steps to install and run Rasa:
 1) Create a new virtual environment or if you are using Anaconda create new environment (conda create -n venv).
